@@ -31,5 +31,10 @@
     	<artifactId>log4j</artifactId>
     	<version>0.9.41</version>
     </dependency>
+    <dependency>
+    	<groupId>RMIServer</groupId>
+    	<artifactId>rmiserver</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 </project>
